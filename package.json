@@ -1,0 +1,19 @@
+{
+  "name": "yh-utils",
+  "version": "1.0.0",
+  "description": "yh-utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyuhaoliar/yh-utils.git"
+  },
+  "author": "yuhao_zhu@yeah.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyuhaoliar/yh-utils/issues"
+  },
+  "homepage": "https://github.com/zhuyuhaoliar/yh-utils#readme"
+}
