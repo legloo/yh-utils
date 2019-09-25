@@ -1,6 +1,6 @@
 {
   "name": "yh-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "yh-utils",
   "main": "lib/index.js",
   "scripts": {
