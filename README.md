@@ -8,5 +8,6 @@ yh-utils
 	filterParams(obj, filter_arr) //过滤值为空并且指定删除key的对象 @param obj Object{};filter_arr Array<String>
 	fomatNumberInit(Number: any), //1312312313 - > '1,312,312,313'
 	fomatNumberFloat(Number: float) //1312312313.123 -> '1,312,312,313.123'
+	regexRules //正则验证组
 ```
 
