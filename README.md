@@ -14,5 +14,6 @@ yh-utils
 	imageHandle(file), //ios拍照图片旋转
 	getOrientation(file,tag), //获取图片信息
 	dataURLtoFile(base64), //base642File
+	getDateDiff(time),//time 2018-05-25 18:14:02 返回 几分钟、几天前
 ```
 
