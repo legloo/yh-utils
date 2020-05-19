@@ -1,6 +1,6 @@
 {
   "name": "yh-utils",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "yh-utils",
   "main": "lib/index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zhuyuhaoliar/yh-utils/issues"
   },
-  "homepage": "https://github.com/zhuyuhaoliar/yh-utils#readme"
+  "homepage": "https://github.com/zhuyuhaoliar/yh-utils#readme",
+  "dependencies": {
+    "exif-js": "^2.3.0",
+    "lrz": "^4.9.40"
+  }
 }
